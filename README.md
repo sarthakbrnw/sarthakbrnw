@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I'm Sarthak Baranwal 👋
 
-<!--
-**sarthakbrnw/sarthakbrnw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 15 y/o | 📚 11th Grade  
+💻 Writing code | 🤖 Building with hardware | 🧪 Exploring AI
 
-Here are some ideas to get you started:
+I'm a student who loves learning by doing — whether it’s coding, automating something cool, or messing with Linux until it breaks (then fixing it). I explore tech daily and share what I build along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ What I’m Into
+- Python, Rust & low-level tinkering  
+- Machine learning, chatbots, automation  
+- Linux & ricing setups
+
+---
+
+### 📡 Connect with Me
+- GitHub: [@sarthakbrnw](https://github.com/sarthakbrnw)  
+- X (Twitter): [@sarthakbrnw](https://x.com/sarthakbrnw)  
+- Discord: `sarthakbrnw`  
+- Email: `sarthak.brnw@proton.me`
+
+---
+
+> 🚀 *"Learn it. Break it. Build it better."*
