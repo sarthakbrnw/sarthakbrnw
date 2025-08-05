@@ -11,5 +11,5 @@ Mostly reading man pages, digging through `/proc`, and breaking things to learn.
 ## connect
 
 📧  sarthak.brnw@proton.me  
-💬  Discord: sarthakbrnw [👉 https://discord.com/users/1389657764481077401]  
+💬  Discord: [sarthakbrnw] (https://discord.com/users/1389657764481077401)  
 🐧  [@sarthakbrnw](https://x.com/sarthakbrnw)
