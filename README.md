@@ -1,28 +1,24 @@
-┌──(sarthak㉿tty1)
-└─$ whoami
-15 y/o into how computers *really* work  
-learning Linux, OS stuff, and all the weird low-level things  
-no IDEs, no fluff — just terminals and man pages  
-systems > socials
+$ whoami
+15 y/o curious about how computers *really* work  
+digging into Linux, OS internals, and the low-level world  
+no IDEs, no GUIs — just TTYs, terminals, and man pages  
+init systems > social systems
 
 > "If you don’t know how it works, you don’t own it."
 
-┌──(sarthak㉿tty1)
-└─$ dmesg | grep contact
-📧 sarthak.brnw@proton.me  
-💬 discord: sarthakbrnw  
-🐦 @sarthakbrnw
+$ dmesg | grep contact
+📧  sarthak.brnw@proton.me  
+💬  discord: sarthakbrnw  
+🐧  x.com: @sarthakbrnw
 
-┌──(sarthak㉿tty1)
-└─$ uname -a
-runs Linux, loves the terminal  
-booted with GRUB  
-lives in /bin/sh  
-only touches X11 when needed  
-uses dwm (heavily patched)  
-always tweaking dotfiles  
-learning by breaking stuff
+$ uname -a
+OS:      Linux (void)  
+Boot:    GRUB  
+Shell:   /bin/sh  
+Desktop: dwm (heavily patched)  
+X11:     only when summoned  
+Status:  writing dotfiles like gospel  
+Mood:    break → learn → repeat
 
-┌──(sarthak㉿tty1)
-└─$ echo "goodbye world" > /dev/null
+$ echo "goodbye world" > /dev/null
 
