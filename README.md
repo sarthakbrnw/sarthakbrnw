@@ -1,58 +1,28 @@
-```sh
-┌──(sarthak㉿tty1)-[/home/sarthak]
+┌──(sarthak㉿tty1)
 └─$ whoami
-15 y/o wannabe low-level enthusiast  
-studying *nix internals, OS design, and the Linux abyss  
-no IDEs, no GUIs, just TTYs and man pages  
-init systems > social systems
+15 y/o into how computers *really* work  
+learning Linux, OS stuff, and all the weird low-level things  
+no IDEs, no fluff — just terminals and man pages  
+systems > socials
 
 > "If you don’t know how it works, you don’t own it."
-```
 
----
-
-```sh
-┌──(sarthak㉿tty1)-[/home/sarthak]
+┌──(sarthak㉿tty1)
 └─$ dmesg | grep contact
-[+][email]   → sarthak.brnw@proton.me  
-[+][discord] → sarthakbrnw  
-[+][x.com]   → @sarthakbrnw
-```
+📧 sarthak.brnw@proton.me  
+💬 discord: sarthakbrnw  
+🐦 @sarthakbrnw
 
----
-
-```sh
-┌──(sarthak㉿tty1)-[/home/sarthak]
+┌──(sarthak㉿tty1)
 └─$ uname -a
-Linux void-machine 6.8.0-custom x86_64 GNU/Linux  
-bootloader: GRUB  
-shell: /bin/sh  
-X11: only when summoned  
-desktop: dwm (patched like a madman)  
-status: writing dotfiles like gospel  
-mood: breaking, learning, repeating
-```
+runs Linux, loves the terminal  
+booted with GRUB  
+lives in /bin/sh  
+only touches X11 when needed  
+uses dwm (heavily patched)  
+always tweaking dotfiles  
+learning by breaking stuff
 
----
-
-```sh
-┌──(sarthak㉿tty1)-[/home/sarthak]
-└─$ pstree -A
-
-init
-├─ login
-│  └─ shell
-│     ├─ vim
-│     ├─ less
-│     ├─ man
-│     ├─ htop
-│     └─ startx --> dwm
-└─ X: inactive (until summoned)
-```
-
----
-
-```sh
-┌──(sarthak㉿tty1)-[/home/sarthak]
+┌──(sarthak㉿tty1)
 └─$ echo "goodbye world" > /dev/null
-```
+
