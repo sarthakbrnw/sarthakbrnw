@@ -1,24 +1,32 @@
-$ whoami
-15 y/o curious about how computers *really* work  
-digging into Linux, OS internals, and the low-level world  
-no IDEs, no GUIs — just TTYs, terminals, and man pages  
-init systems > social systems
+# $ whoami
 
-> "If you don’t know how it works, you don’t own it."
+> be me  
+> 15  
+> no ide, no gui, just bare metal and man pages  
+> linux enjoyer, init supremacist, tty purist  
 
-$ dmesg | grep contact
-📧  sarthak.brnw@proton.me  
-💬  discord: sarthakbrnw  
-🐧  x.com: @sarthakbrnw
+“no root, no rights.”
 
-$ uname -a
-OS:      Linux (void)  
-Boot:    GRUB  
-Shell:   /bin/sh  
-Desktop: dwm (heavily patched)  
-X11:     only when summoned  
-Status:  writing dotfiles like gospel  
-Mood:    break → learn → repeat
+---
 
-$ echo "goodbye world" > /dev/null
+### $ dmesg | grep contact
 
+📧 [`sarthak.brnw@proton.me`](mailto:sarthak.brnw@proton.me)  
+💬 `sarthakbrnw` (discord)  
+🐧 [@sarthakbrnw](https://x.com/sarthakbrnw)
+
+---
+
+### $ uname -a
+
+OS: ubuntu / openbsd  
+boot: grub  
+wm: dwm (riced & cursed)  
+shell: `/bin/sh`  
+x11: only when summoned  
+status: rewriting dotfiles again  
+mood: break → learn → repeat
+
+---
+
+### $ echo "bye" > /dev/null
