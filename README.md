@@ -1,32 +1,16 @@
 # $ whoami
-
-> be me  
-> 15  
-> no ide, no gui, just bare metal and man pages  
-> linux enjoyer, init supremacist, tty purist  
-
-“no root, no rights.”
+15 | systems programming | aka Seggy™
 
 ---
 
-### $ dmesg | grep contact
-
-📧 [`sarthak.brnw@proton.me`](mailto:sarthak.brnw@proton.me)  
-💬 `sarthakbrnw` (discord)  
+📧 [sarthak.brnw@proton.me](mailto:sarthak.brnw@proton.me)  
+💬 [Discord](https://discord.com/users/1389657764481077401)  
+✈️ [Telegram](https://t.me/sarthakbrnw)  
 🐧 [@sarthakbrnw](https://x.com/sarthakbrnw)
 
 ---
 
-### $ uname -a
-
-OS: ubuntu / openbsd  
-boot: grub  
-wm: dwm (riced & cursed)  
-shell: `/bin/sh`  
-x11: only when summoned  
-status: rewriting dotfiles again  
-mood: break → learn → repeat
-
----
-
-### $ echo "bye" > /dev/null
+OS: Ubuntu / OpenBSD  
+WM: dwm  
+Shell: /bin/sh  
+X11: on demand
