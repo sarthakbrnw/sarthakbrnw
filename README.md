@@ -4,9 +4,9 @@ $ whoami
 Sarthak Baranwal ⚙️  
 11th grader  
 
-「Chasing bugs, compiling dreams.」  
+「Chasing bugs, compiling dreams.」
 
-🧩 apprentice of C / Rust / Zig  
+♟️ just another 300 elo   
 🍥 Fedora rice alchemist  
 🌸 fueled by caffeine & copium
 ```
