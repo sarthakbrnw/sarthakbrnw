@@ -7,7 +7,7 @@ Sarthak Baranwal ⚙️
 「Chasing bugs, compiling dreams.」
 
 ♟️ just another 300 elo   
-🍥 Fedora rice alchemist  
+🍥 nixos rice alchemist  
 🌸 fueled by caffeine & copium
 ```
 
@@ -24,11 +24,11 @@ $ neofetch
 
 ```
 $ contact
-📧 Email:    sarthak.brnw@proton.me
-📖 Medium:   medium.com/@sarthak.brnw
+📧 Email:     sarthak.brnw@proton.me
+📖 Medium:    medium.com/@sarthak.brnw
 🐦 X/Twitter: https://x.com/sarthakbrnw
-👾 Reddit:   reddit.com/user/sarthakbrnw
-🎭 Discord:  discord.com/users/1389657764481077401
+👾 Reddit:    reddit.com/user/sarthakbrnw
+🎭 Discord:   discord.com/users/1389657764481077401
 ```
 
 ```
