@@ -24,10 +24,9 @@ $ neofetch
 
 ```
 $ contact
-📂 GitHub:   github.com/sarthakbrnw
-📖 Medium:   medium.com/@sarthak.brnw
 📧 Email:    sarthak.brnw@proton.me
-💬 Telegram: t.me/sarthakbrnw
+📖 Medium:   medium.com/@sarthak.brnw
+🐦 X/Twitter: https://x.com/sarthakbrnw
 👾 Reddit:   reddit.com/user/sarthakbrnw
 🎭 Discord:  discord.com/users/1389657764481077401
 ```
