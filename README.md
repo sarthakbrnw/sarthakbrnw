@@ -25,7 +25,7 @@ $ neofetch
 ```
 $ contact
 📧 Email:     sarthak.brnw@proton.me
-📖 Medium:    medium.com/@sarthak.brnw
+📖 Medium:    medium.com/@sarthakbrnw
 🐦 X/Twitter: https://x.com/sarthakbrnw
 👾 Reddit:    reddit.com/user/sarthakbrnw
 🎭 Discord:   discord.com/users/1389657764481077401
