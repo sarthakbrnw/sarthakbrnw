@@ -24,10 +24,10 @@ $ neofetch
 
 ```
 $ contact
-📧 Email:     sarthak.brnw@proton.me
+📧 Email:     sarthakbrnw@proton.me
 📖 Medium:    medium.com/@sarthakbrnw
-🐦 X/Twitter: https://x.com/sarthakbrnw
-👾 Reddit:    reddit.com/user/sarthakbrnw
+🐻 Bear:      sarthakbrnw.bearblog.dev
+🐦 X/Twitter: x.com/sarthakbrnw
 🎭 Discord:   discord.com/users/1389657764481077401
 ```
 
