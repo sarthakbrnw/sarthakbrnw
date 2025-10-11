@@ -1,7 +1,7 @@
 
 ```
 $ whoami
-Sarthak Baranwal ⚙️  
+Sarthak Baranwal 
 11th grader  
 
 「Chasing bugs, compiling dreams.」
