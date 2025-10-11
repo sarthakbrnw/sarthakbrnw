@@ -6,10 +6,10 @@ Sarthak Baranwal
 
 「Chasing bugs, compiling dreams.」
 
-📧 Email:     sarthakbrnw@proton.me
-🐦 X/Twitter: x.com/sarthakbrnw
-🐻 Bear:      sarthakbrnw.bearblog.dev
+Email:     sarthakbrnw@proton.me
+X/Twitter: x.com/sarthakbrnw
+Bear:      sarthakbrnw.bearblog.dev
 ```
 ```
-$ echo "じゃあな 👾"
+$ echo "じゃあな"
 ```
