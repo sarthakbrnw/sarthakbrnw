@@ -8,7 +8,7 @@ Sarthak Baranwal
 
 Email:     sarthakbrnw@proton.me
 X/Twitter: x.com/seggysocks
-Bear:      sarthakbrnw.bearblog.dev
+Blog:      sarthakbrnw.bearblog.dev
 ```
 ```
 $ echo "じゃあな"
