@@ -7,7 +7,7 @@ Sarthak Baranwal
 「Chasing bugs, compiling dreams.」
 
 Email:     sarthakbrnw@proton.me
-X/Twitter: x.com/sarthakbrnw
+X/Twitter: x.com/seggysocks
 Bear:      sarthakbrnw.bearblog.dev
 ```
 ```
