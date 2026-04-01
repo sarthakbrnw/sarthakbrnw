@@ -12,6 +12,6 @@ you can reach me here:
 
 - 🐾 x → [@seggysocks](https://x.com/seggysocks)
 - 💬 discord → [@seggyslothnugget](https://discord.com/users/1389657764481077401)  
-- 💌 email → [mailto](mailto:seggycodes@proton.me) 
+- 💌 email → [seggycodes@proton.me](mailto:seggycodes@proton.me) 
 
 `[ signal unstable... ]`  `( ˘ω˘ ) ♡`
