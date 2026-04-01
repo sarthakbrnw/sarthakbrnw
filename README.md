@@ -1,5 +1,3 @@
-<div align="center">
-
 ## ♡₊˚ seggy ˚₊♡  
 `> booting...`
 
@@ -16,9 +14,5 @@ you can reach me here:
 - 💬 discord → [@seggyslothnugget](https://discord.com/users/1389657764481077401)  
 - 💌 email → [mailto](mailto:seggycodes@proton.me) 
 
-<div align="center">
-
 `[ signal unstable... ]`  
 `( ˘ω˘ ) ♡`
-
-</div>
