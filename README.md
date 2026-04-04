@@ -3,11 +3,11 @@
 
 </div>
 
-hola~ i'm **seggy** (he/she/they) — 16, nb, bi/pan highschooler  
-running on monsters, chaos, and questionable decisions ♡  
+hola~ i'm seggy (he/she/they)\
+16 • nb/pan high schooler • learning 2code & build stuff
 
 no niche, no plan — just systems, configs, and\
-whatever keeps my brain occupied at 2am ☁  \
+whatever keeps my brain occupied at 2am ☁\
 you can reach me here:
 
 - 🐾 x → [@seggysocks](https://x.com/seggysocks)
